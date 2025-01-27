@@ -1,0 +1,19 @@
+table, th, td {
+    border: 10px solid red;
+}
+h1{
+    background-color: red;
+}
+body{
+    background-color: rgb(255, 150, 150);
+}
+.rrr{
+    background-color: rgb(251, 204, 204);
+}
+.ttt{
+    background-color: aliceblue;
+}
+.yyy{
+
+background-color: rgb(255, 149, 0);
+}
